@@ -5,3 +5,5 @@ For styling, React-Bootstrap, a popular UI library, is utilized. It provides pre
 To fetch the latest news, the NewsAPI is used. NewsAPI is a RESTful API that provides news articles from various sources. It allows developers to fetch and integrate news content into their applications, making it an excellent choice for this project.
 
 Overall, this project provides users with a modern and efficient way to consume news content. With its use of modern technologies, users can expect a fast, responsive, and reliable news platform that meets their daily needs.
+
+Embark on a journey to discover more about my exceptional skills and expertise in web development by visiting my captivating live portfolio ✨ at deepakwings.netlify.app.
